@@ -1,0 +1,4 @@
+def f1(a,b):
+    c = a+b
+    return c
+n = f1(2,3)
